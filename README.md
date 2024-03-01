@@ -149,4 +149,5 @@ FILE_FORMAT = (FORMAT_NAME = csv_format);
 
 ![Data Copy](https://github.com/Surendraprajapat18/Snowflake-Integration-with-AWS-S3/assets/97840357/2b038708-f30e-4fc3-b7d5-dbc0ba532214)
 
-![image](https://github.com/Surendraprajapat18/Snowflake-Integration-with-AWS-S3/assets/97840357/e0be0dce-f8
+![image](https://github.com/Surendraprajapat18/Snowflake-Integration-with-AWS-S3/assets/97840357/c10f4d4c-7e1e-4dec-adf2-4ab242fc2752)
+
